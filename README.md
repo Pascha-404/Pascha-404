@@ -29,6 +29,12 @@ I'm Patrick, 30 years old and a web developer from Germany! :technologist:
 
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#18](https://github.com/Pascha-404/my-portfolio-website/pull/18) in [Pascha-404/my-portfolio-website](https://github.com/Pascha-404/my-portfolio-website)
+2. 💪 Opened PR [#18](https://github.com/Pascha-404/my-portfolio-website/pull/18) in [Pascha-404/my-portfolio-website](https://github.com/Pascha-404/my-portfolio-website)
+3. 🎉 Merged PR [#17](https://github.com/Pascha-404/my-portfolio-website/pull/17) in [Pascha-404/my-portfolio-website](https://github.com/Pascha-404/my-portfolio-website)
+4. 💪 Opened PR [#17](https://github.com/Pascha-404/my-portfolio-website/pull/17) in [Pascha-404/my-portfolio-website](https://github.com/Pascha-404/my-portfolio-website)
+5. 🎉 Merged PR [#16](https://github.com/Pascha-404/my-portfolio-website/pull/16) in [Pascha-404/my-portfolio-website](https://github.com/Pascha-404/my-portfolio-website)
+<!--END_SECTION:activity-->
 
 
 
