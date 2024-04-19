@@ -27,7 +27,7 @@ I'm Patrick, 30 years old and a web developer from Germany! :technologist:
 ## :computer: My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pascha-404&layout=compact&bg_color=09131b&text_color=ffffff&title_color=ff652f)](https://github.com/anuraghazra/github-readme-stats) [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=pascha-404&theme=codeSTACKr&show_icons=true&hide=stars,issues,contribs&hide_rank=true&include_all_commits=true&number_format=long)](https://github.com/anuraghazra/github-readme-stats)
 
-
+## :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#18](https://github.com/Pascha-404/my-portfolio-website/pull/18) in [Pascha-404/my-portfolio-website](https://github.com/Pascha-404/my-portfolio-website)
 2. 💪 Opened PR [#18](https://github.com/Pascha-404/my-portfolio-website/pull/18) in [Pascha-404/my-portfolio-website](https://github.com/Pascha-404/my-portfolio-website)
