@@ -1,8 +1,9 @@
 
-### <div align="center">__Hi there and welcome to my GitHub Profile 👋__</div>
+### <div align="center">![Header](./github-header-image.png)</div>
 ---
-I'm Patrick, 30 years old and a web developer from Germany! :technologist:
 
+- :clock3: I'm 30 years old
+- :derelict_house: I'm from Germany
 - 🔭 I’m currently working on finding a job in the tech industry
 - 👯 I’m looking to collaborate on web development projects
 - 🌱 I’m eager to learn and grow
