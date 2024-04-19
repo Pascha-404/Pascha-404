@@ -33,11 +33,6 @@ I'm Patrick, 30 years old and a web developer from Germany! :technologist:
 
 
 
-<!--END_SECTION:activity-->
-
-
-
-
 <!--
 **Pascha-404/Pascha-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
