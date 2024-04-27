@@ -30,11 +30,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/Pascha-404/my-portfolio-website/pull/20) in [Pascha-404/my-portfolio-website](https://github.com/Pascha-404/my-portfolio-website)
-2. 💪 Opened PR [#20](https://github.com/Pascha-404/my-portfolio-website/pull/20) in [Pascha-404/my-portfolio-website](https://github.com/Pascha-404/my-portfolio-website)
-3. 🎉 Merged PR [#19](https://github.com/Pascha-404/my-portfolio-website/pull/19) in [Pascha-404/my-portfolio-website](https://github.com/Pascha-404/my-portfolio-website)
-4. 💪 Opened PR [#19](https://github.com/Pascha-404/my-portfolio-website/pull/19) in [Pascha-404/my-portfolio-website](https://github.com/Pascha-404/my-portfolio-website)
-5. 🎉 Merged PR [#11](https://github.com/Pascha-404/goksenia-portfolio-homepage/pull/11) in [Pascha-404/goksenia-portfolio-homepage](https://github.com/Pascha-404/goksenia-portfolio-homepage)
+1. 🎉 Merged PR [#21](https://github.com/Pascha-404/my-portfolio-website/pull/21) in [Pascha-404/my-portfolio-website](https://github.com/Pascha-404/my-portfolio-website)
+2. 💪 Opened PR [#21](https://github.com/Pascha-404/my-portfolio-website/pull/21) in [Pascha-404/my-portfolio-website](https://github.com/Pascha-404/my-portfolio-website)
+3. 🎉 Merged PR [#20](https://github.com/Pascha-404/my-portfolio-website/pull/20) in [Pascha-404/my-portfolio-website](https://github.com/Pascha-404/my-portfolio-website)
+4. 💪 Opened PR [#20](https://github.com/Pascha-404/my-portfolio-website/pull/20) in [Pascha-404/my-portfolio-website](https://github.com/Pascha-404/my-portfolio-website)
+5. 🎉 Merged PR [#19](https://github.com/Pascha-404/my-portfolio-website/pull/19) in [Pascha-404/my-portfolio-website](https://github.com/Pascha-404/my-portfolio-website)
 <!--END_SECTION:activity-->
 
 
