@@ -2,7 +2,7 @@
 ### <div align="center">![Header](./github-header-image.png)</div>
 ---
 
-- :clock3: I'm 30 years old
+- :clock3: I'm 31 years old
 - :derelict_house: I'm from Germany
 - 🔭 I’m currently working on finding a job in the tech industry
 - 👯 I’m looking to collaborate on web development projects
